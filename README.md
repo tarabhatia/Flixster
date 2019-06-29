@@ -22,21 +22,17 @@ The following **stretch** features are implemented:
 * [X] Apply the popular [Butterknife annotation library](http://guides.codepath.org/android/Reducing-View-Boilerplate-with-Butterknife) to reduce boilerplate code.
 * [ ] Allow video trailers to be played in full-screen using the YouTubePlayerView from the details screen.
 
-The following **additional** features are implemented:
-
-* [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='Flixster.gif'/>
+<img src='FlixsterGIF.gif'/>
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Because this application was a lot more complicated than the to-do app, it was hard to completely understand each line I was writing. I had a hard time figuring out constraints, but the more I did it, the more comfortable I felt with it. There were other challenges like figuring out how to implement the video trailers. However, I hope to implement this feature in the future!
 
 ## Open-source libraries used
 
